@@ -22,7 +22,7 @@ Every transaction using PNEUMA automatically contributes 1% to Zambian-based min
 - `.well-known/stellar.toml` — Stellar metadata file linking the token to its logo and description.
 - `pneuma-logo.png` — Official token logo (transparent background, optimized for wallets and explorers).
 
-## Learn More
+## Learn More 
 
 Visit our ministry homepage: [Carrier Inspiration Ministries](https://denim-firewall-da7.notion.site/Hello-I-m-Bryce-Nathanial-Carrier-1497a0361320802cbfdbe4db04f8deac)
 
