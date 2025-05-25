@@ -5,7 +5,7 @@ org_description = "A faith-based mission working to strengthen the church connec
 
 [[CURRENCIES]]
 code = "PNEUMA"
-issuer = "GAR43MR2JNU2AZZPGJZ7TTB6PCPBQZLQ5Z5I3ETNXM5YH73KJZYX64GJ"
+issuer = "GAR43MR2JNU2AZZPGJZ7TTB6PCPBQZLQ5Z5I3ETNXM5YH73KJZYX64GJ" 
 display_decimals = 2
 name = "PNEUMA Coin"
 desc = "A Christian token designed to connect the Church in the USA and Zambia through generosity and decentralized giving."
