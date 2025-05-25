@@ -8,7 +8,7 @@ This repository hosts the Stellar TOML file and official coin image for the PNEU
 
 - **Token Name:** PNEUMA
 - **Asset Code:** PNEUMA
-- **Issuer Account:** `GAR43MR2JNU2AZZPGJZ7TTB6PCPBQZLQ5Z5I3ETNXM5YH73KJZYX64GJ`
+- **Issuer Account:** `GAR43MR2JNU2AZZPGJZ7TTB6PCPBQZLQ5Z5I3ETNXM5YH73KJZYX64GJ'
 - **Network:** Stellar Mainnet
 
 ## Purpose
